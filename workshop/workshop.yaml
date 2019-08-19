@@ -2,7 +2,7 @@ name: AsciiDoc Sample
 
 modules:
     activate:
-    - workshop-overview
-    - setup-environment
-    - exercises/01-sample-content
+    - common-environment
+    - common-parksmap-architecture
+    - exercises/01-common-cli
     - workshop-summary
