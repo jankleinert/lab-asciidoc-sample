@@ -1,8 +1,15 @@
-name: AsciiDoc Sample
+name: OpenShift Developer Workshop - Node.js
 
 modules:
     activate:
     - common-environment
     - common-parksmap-architecture
     - exercises/01-common-cli
+    - exercises/02-common-explore
+    - exercises/03-parksmap-docker
+    - exercises/04-parksmap-scaling
+    - exercises/05-parksmap-routes
+    - exercises/06-parksmap-logging
+    - exercises/07-parksmap-permissions
+    - exercises/08-nationalparks-javascript
     - workshop-summary

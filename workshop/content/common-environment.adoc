@@ -21,7 +21,7 @@ Additionally, a predefined number of user accounts have been provisioned.
 Before continuing, please visit visit the Etherpad at the following URL:
 
 ----
-http://etherpad-%project_namespace%.%base_-_url%/p/workshop
+http://etherpad-%project_namespace%.%base_url%/p/workshop
 ----
 
 Decide on a user account among one of the available users or use 

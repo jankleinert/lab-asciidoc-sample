@@ -21,7 +21,7 @@ You should see the following (or something similar):
 
 [source,bash]
 ----
-{{OC_VERSION}}
+%OC_VERSION%
 ----
 
 If the `oc` doesn't exist or you have an older version of the OpenShift CLI, follow
@@ -71,7 +71,7 @@ You should see the following (or something similar):
 
 [source,bash]
 ----
-{{OC_VERSION}}
+%OC_VERSION%
 ----
 
 If you get an error message, you have not updated your path correctly. If you

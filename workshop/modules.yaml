@@ -7,7 +7,33 @@ modules:
         exit_sign: Command Line Interface Overview
     exercises/01-common-cli:
         name: Command Line Interface Overview
-        exit_sign: Workshop Summary
+        exit_sign: Exploring the Command Line
+    exercises/02-common-explore:
+        name: Exploring the CLI and Web Console
+        exit_sign: Deploying Your First Container Image
+    exercises/03-parksmap-docker:
+        name: Deploying Your First Container Image
+        exit_sign: Scaling and Self Healing
+    exercises/04-parksmap-scaling:
+        name: Scaling and Self Healing
+        exit_sign: Exposing Your Application to the Outside World
+    exercises/05-parksmap-routes:
+        name: Exposing Your Application to the Outside World
+        exit_sign: Exploring OpenShift's Logging Capabilities
+    exercises/06-parksmap-logging:
+        name: Exploring OpenShift's Logging Capabilities
+        exit_sign: Role-Based Access Control
+    exercises/07-parksmap-permissions:
+        name: Role-Based Access Control
+        exit_sign: Remote Access to Your Application
+    exercises/08-parksmap-rsh:
+        name: Remote Access to Your Application
+        exit_sign: Deploying JavaScript Code
+    exercises/09-nationalparks-javascript:
+        name: Deploying JavaScript Code
+        exit_sign: Workshop Summary                
+                
+
     workshop-summary:
         name: Workshop Summary
         exit_sign: Finish Workshop
