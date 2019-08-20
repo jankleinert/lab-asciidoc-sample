@@ -24,6 +24,16 @@ You should see the following (or something similar):
 %OC_VERSION%
 ----
 
+%OC_VERSION%
+* `username`: %username%
+* `project_namespace`: %project_namespace%
+* `cluster_subdomain`: %cluster_subdomain%
+* `base_url`: %base_url%
+* `console_url`: %console_url%
+* `terminal_url`: %terminal_url%
+* `slides_url`: %slides_url%
+
+
 If the `oc` doesn't exist or you have an older version of the OpenShift CLI, follow
 the next sections to install or update the OpenShift CLI. Otherwise, skip to the
 next lab.
